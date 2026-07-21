@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Header(){
     return(
-        <header className="bg-slate-700 text-black p-2">
+        <header className="bg-slate-700 text-white p-2">
            <Link href="/Cadastro"
            className="m-5"
            >
